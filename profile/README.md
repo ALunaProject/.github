@@ -2,7 +2,7 @@
 
 Luna é um programa desenvolvido com o objetivo de reunir em um só lugar tudo o que o público gamer precisa. Desde notícias atualizadas sobre o universo dos jogos até ferramentas de descoberta de novas experiências e espaços para socialização entre jogadores.
 
-<img width="844" height="844" alt="Frame 2608597" src="https://github.com/user-attachments/assets/10788772-92cb-47bc-afad-108766841ac7" />
+<img width="544" height="544" alt="Frame 2608597" src="https://github.com/user-attachments/assets/10788772-92cb-47bc-afad-108766841ac7" />
 
 ## 🚀 Visão Geral
 
