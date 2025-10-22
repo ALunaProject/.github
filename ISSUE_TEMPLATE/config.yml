@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Dúvidas gerais
+    url: https://github.com/ALunaProject/discussions
+    about: Use as discussões para perguntas, ideias ou dúvidas que não sejam bugs ou novas features.
