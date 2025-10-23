@@ -1,72 +1,33 @@
-\# 🚀 Pull Request
+# 🚀 Pull Request - [`mudança`] `nome da pr`
 
-
-
-\## 📝 Descrição
+## 📝 Descrição
 
 Descreva brevemente o que foi feito e o motivo das mudanças.
 
+---
 
+## 📋 Tarefas realizadas
 
-\*\*Exemplo:\*\*
+- [ ] Adiciona função de login (`login.js`)
 
-> Implementa o sistema de login integrado ao backend.
+- [ ] Cria validação de formulário
 
-
+- [ ] Atualiza README com instruções de uso
 
 ---
 
+## ✅ Checklist
 
+- [ ] Código segue o padrão de estilo do projeto?
 
-\## 📋 Tarefas realizadas
+- [ ] Testes locais foram realizados?
 
-\- \[ ] Adiciona função de login (`login.js`)
+- [ ] Documentação atualizada (se necessário)?
 
-\- \[ ] Cria validação de formulário
-
-\- \[ ] Atualiza README com instruções de uso
-
-
+- [ ] PR está pronto para revisão?
 
 ---
 
+## 📎 Referências
 
-
-\## 🧪 Como testar
-
-1\. Clone este branch
-
-2\. Rode `npm start` ou abra `index.html`
-
-3\. Teste o login com um usuário de teste
-
-
-
----
-
-
-
-\## ✅ Checklist
-
-\- \[ ] Código segue o padrão de estilo do projeto
-
-\- \[ ] Testes locais foram realizados
-
-\- \[ ] Documentação atualizada (se necessário)
-
-\- \[ ] PR está pronto para revisão
-
-
-
----
-
-
-
-\## 📎 Referências
-
-> Issue relacionada: #123  
-
-> Tarefa no Trello/Jira: `FRONT-45`
-
-
-
+> Issue relacionada: #123
